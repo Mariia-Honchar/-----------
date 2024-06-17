@@ -1,0 +1,14 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50px;
+    width: 150px;
+    padding: 30px 40px 30px 60px;
+}
+
+.button {
+    cursor: pointer;
+    border: 2px solid red;
+    background: white;
+}
