@@ -2,13 +2,15 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 50px;
-    width: 150px;
-    padding: 30px 40px 30px 60px;
+    
 }
 
 .button {
     cursor: pointer;
-    border: 2px solid red;
+    border: 2px dashed red;
     background: white;
+    height: 50px;
+    width: 150px;
+    display: block;
+    margin: 30px 40px 30px 60px;
 }
